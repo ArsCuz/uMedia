@@ -1,0 +1,8 @@
+{
+  "name": "uMedia - AI Video Portfolio",
+  "description": "A dark, minimal portfolio platform for AI-generated media (un-media), featuring automatic hover playback and educational process descriptions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
